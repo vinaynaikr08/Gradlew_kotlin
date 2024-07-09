@@ -1,16 +1,13 @@
 <h1 align="center">
-<a href="https://github.com/SpaceVim/SpaceVim#readme">
+<a href="https://spacevim.org">
   <img src="https://spacevim.org/logo.png" width="440" alt="SpaceVim"/>
   </a>
 </h1>
 
+NOTE: The development of SpaceVim has been moved to [spacevim.org repository](https://spacevim.org/git/repos/SpaceVim/) 
+
 [Quick Start Guide](https://spacevim.org/quick-start-guide/) \|
 [FAQ](https://spacevim.org/faq/)
-
-[![build](https://img.shields.io/github/actions/workflow/status/SpaceVim/SpaceVim/check.yml?branch=master)](https://github.com/SpaceVim/SpaceVim/actions/workflows/check.yml?query=branch%3Amaster)
-[![Codecov coverage](https://img.shields.io/codecov/c/github/SpaceVim/SpaceVim.svg)](https://codecov.io/gh/SpaceVim/SpaceVim)
-[![GPLv3 License](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://github.com/SpaceVim/SpaceVim/blob/master/LICENSE)
-[![Docker Pulls](https://img.shields.io/docker/pulls/spacevim/spacevim)](https://hub.docker.com/r/spacevim/spacevim)
 
 SpaceVim is a (neo)vim configuration inspired by spacemacs.
 
